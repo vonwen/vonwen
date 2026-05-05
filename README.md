@@ -1,4 +1,4 @@
-# VXON
+# XVON
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -53,5 +53,5 @@ One-Man Army engineering: from Protocol Reverse Engineering to Frontend Visualiz
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vxon&style=flat-square&color=00FF88" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=xvonn&style=flat-square&color=00FF88" alt="Profile Views" />
 </p>
