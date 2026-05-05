@@ -45,12 +45,8 @@ One-Man Army engineering: from Protocol Reverse Engineering to Frontend Visualiz
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/vonwen">
-    <img src="https://github-readme-stats-ruby-xi-39.vercel.app/api?username=vonwen" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/vonwen">
-    <img src="https://github-readme-stats-ruby-xi-39.vercel.app/api/top-langs/?username=vonwen&layout=compact" alt="Top Langs" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vonwen&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonwen&layout=compact" alt="Top Langs" />
 </p>
 
 <p align="center">
