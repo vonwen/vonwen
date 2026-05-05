@@ -5,10 +5,6 @@
 </p>
 
 ---
-
-## Tech Stack
-
-<p align="center">
   <img src="https://img.shields.io/badge/Open%20WebUI-000000?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-FF6F61?style=flat-square&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" />
