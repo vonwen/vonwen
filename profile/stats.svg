@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">XVON's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 6, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <title id="titleId">vonwen's GitHub Stats, Rank: C</title>
+        <desc id="descId">Total Stars Earned: 0, Total Commits (last year): 6, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >XVON's GitHub Stats</text>
+      >vonwen's GitHub Stats</text>
     </g>
       </g>
     
