@@ -10,11 +10,11 @@
 
 ## About Me
 
-**AI Platform Architect & LLMOps Expert**
-
-Building self-healing, high-availability AI infrastructure that bridges Enterprise Data and Generative AI.
-
-One-Man Army engineering: from Protocol Reverse Engineering to Frontend Visualization.
+| | |
+|---|---|
+| **Role** | AI Platform Architect & LLMOps Expert |
+| **Focus** | Building self-healing, high-availability AI infrastructure that bridges Enterprise Data and Generative AI |
+| **Style** | One-Man Army engineering: from Protocol Reverse Engineering to Frontend Visualization |
 
 <p align="center">
   <img src="profile/stats.svg" alt="GitHub Stats" />
