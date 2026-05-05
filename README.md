@@ -20,6 +20,8 @@
 
 <p align="center">
   <img src="https://github.com/vonwen/vonwen/raw/main/profile/stats.svg" alt="GitHub Stats" />
+</p>
+<p align="center">
   <img src="https://github.com/vonwen/vonwen/raw/main/profile/top-langs.svg" alt="Top Langs" />
 </p>
 
