@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/vonwen/vonwen/raw/main/profile/stats.svg?hide_border=true&hide_title=true&count_private=true&theme=transparent" height="165" style="margin-right:16px;" /> <img src="https://github.com/vonwen/vonwen/raw/main/profile/top-langs.svg?hide_border=true&hide_title=true&langs_count=6&theme=transparent" height="190" />
+  <img src="https://github.com/vonwen/vonwen/raw/main/profile/stats.svg?hide_border=true&hide_title=true&count_private=true&theme=transparent" height="195" style="margin-right:16px;" /> <img src="https://github.com/vonwen/vonwen/raw/main/profile/top-langs.svg?hide_border=true&hide_title=true&langs_count=6&theme=transparent" height="195" />
 </p>
 
 ---
