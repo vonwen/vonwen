@@ -45,7 +45,6 @@ One-Man Army engineering: from Protocol Reverse Engineering to Frontend Visualiz
 <p align="center">
   <img src="profile/stats.svg" alt="GitHub Stats" />
   <img src="profile/top-langs.svg" alt="Top Langs" />
-  <img src="https://raw.githubusercontent.com/vonwen/vonwen/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
