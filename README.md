@@ -16,6 +16,13 @@ Building self-healing, high-availability AI infrastructure that bridges Enterpri
 
 One-Man Army engineering: from Protocol Reverse Engineering to Frontend Visualization.
 
+### GitHub Stats
+
+<p align="center">
+  <img src="profile/stats.svg" alt="GitHub Stats" />
+  <img src="profile/top-langs.svg" alt="Top Langs" />
+</p>
+
 ---
 
 ## Quote
@@ -41,13 +48,6 @@ One-Man Army engineering: from Protocol Reverse Engineering to Frontend Visualiz
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### GitHub Stats
-
-<p align="center">
-  <img src="profile/stats.svg" alt="GitHub Stats" />
-  <img src="profile/top-langs.svg" alt="Top Langs" />
-</p>
 
 ---
 
