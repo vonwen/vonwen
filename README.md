@@ -19,10 +19,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/vonwen/vonwen/raw/main/profile/stats.svg" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github.com/vonwen/vonwen/raw/main/profile/top-langs.svg" alt="Top Langs" />
+  <img src="https://github.com/vonwen/vonwen/raw/main/profile/stats.svg?hide_border=true&hide_title=true" alt="GitHub Stats" /> <img src="https://github.com/vonwen/vonwen/raw/main/profile/top-langs.svg?langs_count=5" alt="Top Langs" />
 </p>
 
 ---
