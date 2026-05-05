@@ -40,9 +40,7 @@ One-Man Army engineering: from Protocol Reverse Engineering to Frontend Visualiz
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
-
-## GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="profile/stats.svg" alt="GitHub Stats" />
