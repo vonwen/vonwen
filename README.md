@@ -45,8 +45,8 @@ One-Man Army engineering: from Protocol Reverse Engineering to Frontend Visualiz
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vonwen&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonwen&layout=compact" alt="Top Langs" />
+  <img src="profile/stats.svg" alt="GitHub Stats" />
+  <img src="profile/top-langs.svg" alt="Top Langs" />
 </p>
 
 <p align="center">
