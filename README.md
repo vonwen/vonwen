@@ -10,7 +10,7 @@
 
 ## About Me
 
-| Key | Value |
+| :star: :star: :star: | :star: :star: :star: :star: :star: |
 |---|---|
 | **Role** | AI Platform Architect & LLMOps Expert |
 | **Focus** | Building self-healing, high-availability AI infrastructure that bridges Enterprise Data and Generative AI |
