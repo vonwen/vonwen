@@ -28,8 +28,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-stats.vercel.app/api?username=vonwen&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://readme-stats.vercel.app/api/top-langs/?username=vonwen&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="profile/stats.svg" alt="GitHub Stats" />
+  <img src="profile/top-langs.svg" alt="Top Langs" />
 </p>
 
 ---
