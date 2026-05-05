@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=The+Authentic+AI+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=The+Authentic+AI+Engineer&font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=500" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ One-Man Army engineering: from Protocol Reverse Engineering to Frontend Visualiz
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=222222&center=true&vCenter=true&width=500&lines=I have no special talent.;I am only passionately curious.;— Albert Einstein" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I have no special talent.;I am only passionately curious.;— Albert Einstein&font=Fira+Code&size=18&duration=3000&pause=2000&color=222222&center=true&vCenter=true&width=500" alt="Typing SVG" />
   </a>
 </p>
 
