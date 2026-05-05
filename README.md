@@ -24,8 +24,8 @@
 | :star: :star: :star: | :star: :star: :star: :star: :star: |
 |---|---|
 | **Role** | AI Platform Architect & LLMOps Expert |
-| **Focus** | Building self-healing, high-availability AI infrastructure that bridges Enterprise Data and Generative AI |
-| **Style** | One-Man Army engineering: from Protocol Reverse Engineering to Frontend Visualization |
+| **Focus** | Architecting self-healing, high-availability AI infrastructure to bridge Enterprise Data and Generative AI |
+| **Style** | Full-Stack Engineering: from Protocol Reverse Engineering to Front-End Visualization |
 
 ---
 
