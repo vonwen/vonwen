@@ -30,6 +30,11 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Patch top-langs SVG height
+        run: |
+          sed -i 's/height="130"/height="180"/' profile/top-langs.svg
+          sed -i 's/viewBox="0 0 300 130"/viewBox="0 0 300 180"/' profile/top-langs.svg
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
