@@ -1,106 +1,129 @@
 
-<svg
-  width="300"
-  height="180"
-  viewBox="0 0 300 180"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
-  role="img"
-  aria-labelledby="descId"
->
-  <title id="titleId">Most Used Languages</title>
-  <desc id="descId">Most used programming languages</desc>
-  <style>
-    .header {
-      font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-      fill: #fe428e;
-      animation: fadeInAnimation 0.8s ease-in-out forwards;
-    }
-    @supports(-moz-appearance: auto) {
-      .header { font-size: 15.5px; }
+      <svg
+        width="300"
+        height="90"
+        viewBox="0 0 300 90"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-labelledby="descId"
+      >
+        <title id="titleId"></title>
+        <desc id="descId"></desc>
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #fe428e;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
+          
+    @keyframes slideInAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: calc(100%-100px);
+      }
     }
     @keyframes growWidthAnimation {
-      from { width: 0; }
-      to { width: 100%; }
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
     }
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #a9fef7;
+    }
+    @supports(-moz-appearance: auto) {
+      /* Selector detects Firefox */
+      .stat { font-size:12px; }
+    }
+    .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
       fill: #a9fef7;
     }
-    .lang-pct {
-      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #8b949e;
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
-    @keyframes fadeInAnimation {
-      from { opacity: 0; }
-      to { opacity: 1; }
+    #rect-mask rect{
+      animation: slideInAnimation 1s ease-in-out forwards;
     }
-  </style>
+    .lang-progress{
+      animation: growWidthAnimation 0.6s ease-in-out forwards;
+    }
+    
 
-  <rect
-    data-testid="card-bg"
-    x="0.5"
-    y="0.5"
-    rx="4.5"
-    height="99%"
-    stroke="#e4e2e2"
-    width="299"
-    fill="#141321"
-    stroke-opacity="1"
-  />
+          
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
+      }
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+    
+          
+        </style>
 
-  <g
-    data-testid="card-title"
-    transform="translate(25, 25)"
-  >
-    <text x="0" y="0" class="header" data-testid="header">Most Used Languages</text>
-  </g>
+        
 
-  <g data-testid="main-card-body" transform="translate(0, 40)">
+        <rect
+          data-testid="card-bg"
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="99%"
+          stroke="#e4e2e2"
+          width="299"
+          fill="#141321"
+          stroke-opacity="1"
+        />
+
+        
+      <g
+        data-testid="card-title"
+        transform="translate(25, 35)"
+      >
+        <g transform="translate(0, 0)">
+      <text
+        x="0"
+        y="0"
+        class="header"
+        data-testid="header"
+      >Most Used Languages</text>
+    </g>
+      </g>
+    
+
+        <g
+          data-testid="main-card-body"
+          transform="translate(0, 55)"
+        >
+          
     <svg data-testid="lang-items" x="25">
-
-      <!-- Python -->
-      <g transform="translate(0, 0)">
-        <text x="0" y="10" class="lang-name">Python</text>
-        <text x="250" y="10" class="lang-pct" text-anchor="end">35.6%</text>
-        <rect x="0" y="14" width="250" height="4" rx="2" fill="#3572A5" class="lang-progress" style="animation:growWidthAnimation 0.6s ease-in-out forwards;animation-delay:0.1s"/>
-      </g>
-
-      <!-- Go -->
-      <g transform="translate(0, 20)">
-        <text x="0" y="10" class="lang-name">Go</text>
-        <text x="250" y="10" class="lang-pct" text-anchor="end">22.1%</text>
-        <rect x="0" y="14" width="155" height="4" rx="2" fill="#00ADD8" class="lang-progress" style="animation:growWidthAnimation 0.6s ease-in-out forwards;animation-delay:0.2s"/>
-      </g>
-
-      <!-- SQL -->
-      <g transform="translate(0, 40)">
-        <text x="0" y="10" class="lang-name">SQL</text>
-        <text x="250" y="10" class="lang-pct" text-anchor="end">15.8%</text>
-        <rect x="0" y="14" width="111" height="4" rx="2" fill="#e38c00" class="lang-progress" style="animation:growWidthAnimation 0.6s ease-in-out forwards;animation-delay:0.3s"/>
-      </g>
-
-      <!-- Shell -->
-      <g transform="translate(0, 60)">
-        <text x="0" y="10" class="lang-name">Shell</text>
-        <text x="250" y="10" class="lang-pct" text-anchor="end">10.3%</text>
-        <rect x="0" y="14" width="72" height="4" rx="2" fill="#89e051" class="lang-progress" style="animation:growWidthAnimation 0.6s ease-in-out forwards;animation-delay:0.4s"/>
-      </g>
-
-      <!-- JavaScript -->
-      <g transform="translate(0, 80)">
-        <text x="0" y="10" class="lang-name">JavaScript</text>
-        <text x="250" y="10" class="lang-pct" text-anchor="end">6.5%</text>
-        <rect x="0" y="14" width="46" height="4" rx="2" fill="#f1e05a" class="lang-progress" style="animation:growWidthAnimation 0.6s ease-in-out forwards;animation-delay:0.5s"/>
-      </g>
-
-      <!-- TypeScript -->
-      <g transform="translate(0, 100)">
-        <text x="0" y="10" class="lang-name">TypeScript</text>
-        <text x="250" y="10" class="lang-pct" text-anchor="end">4.8%</text>
-        <rect x="0" y="14" width="34" height="4" rx="2" fill="#3178c6" class="lang-progress" style="animation:growWidthAnimation 0.6s ease-in-out forwards;animation-delay:0.6s"/>
-      </g>
-
+      
+    <text x="0" y="11" class="stat bold" fill="#a9fef7">No languages data.</text>
+  
     </svg>
-  </g>
-</svg>
+  
+        </g>
+      </svg>
+    
